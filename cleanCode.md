@@ -1,6 +1,4 @@
-# código limpio - mecanografiado [ ! _ [ Twittear ] ( https : //img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Clean%20Code% 20Typescript&url=https://github.com/labs42io/clean-code-typescript) 
-
- Conceptos de código  limpio adaptados para TypeScript .     
+#Conceptos de código  limpio adaptados para TypeScript .     
 Inspirado  en  [ clean - code - javascript ] ( https : //github.com/ryanmcdermott/clean-code-javascript).
 
 ## Tabla  de  contenido
